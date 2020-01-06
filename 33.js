@@ -3,3 +3,6 @@ const c='忽如一夜春风来，千树万树梨花开'
 let d=333
 var e=999999999999999999999
 var t=1000000000000000000000000000000000000000000000000000
+var e='linanlinan'
+var t=ppppppppppppppppppppppppppppppppppppppp
+
