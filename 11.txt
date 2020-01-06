@@ -1,0 +1,2 @@
+var num=30
+var num2=30
