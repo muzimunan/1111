@@ -1,6 +1,3 @@
 var num=30
-<<<<<<< HEAD
-=======
 var num2=30
->>>>>>> a
 const a=11
